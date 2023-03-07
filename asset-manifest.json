@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-alecwatts.life/static/css/main.073c9b0a.css",
-    "main.js": "/react-alecwatts.life/static/js/main.96215559.js",
+    "main.css": "/react-alecwatts.life/static/css/main.fc1a08d6.css",
+    "main.js": "/react-alecwatts.life/static/js/main.bf3329b2.js",
     "static/js/787.dcee190e.chunk.js": "/react-alecwatts.life/static/js/787.dcee190e.chunk.js",
-    "static/media/logo.svg": "/react-alecwatts.life/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/headshot.jpg": "/react-alecwatts.life/static/media/headshot.9b743e95880cf3b1ed17.jpg",
     "index.html": "/react-alecwatts.life/index.html",
-    "main.073c9b0a.css.map": "/react-alecwatts.life/static/css/main.073c9b0a.css.map",
-    "main.96215559.js.map": "/react-alecwatts.life/static/js/main.96215559.js.map",
+    "main.fc1a08d6.css.map": "/react-alecwatts.life/static/css/main.fc1a08d6.css.map",
+    "main.bf3329b2.js.map": "/react-alecwatts.life/static/js/main.bf3329b2.js.map",
     "787.dcee190e.chunk.js.map": "/react-alecwatts.life/static/js/787.dcee190e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.96215559.js"
+    "static/css/main.fc1a08d6.css",
+    "static/js/main.bf3329b2.js"
   ]
 }
