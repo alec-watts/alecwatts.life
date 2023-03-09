@@ -14,7 +14,7 @@ const Header:FC = () => {
         <h1 className='text-4xl'> <b>Alec Watts</b> </h1>
         <h3>alecwatts1@gmail.com</h3>
         <h3>310-922-1006</h3>
-        <a className='underline' href="https://drive.google.com/file/d/186pzIW6Fw6gQDf0TDNnCZvq_vZQeWMT4/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+        <a className='underline' href="https://drive.google.com/file/d/1GaOCBgzp7k3u3d9br0EDcXhHtxDG20Ea/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
         <div className="flex">
           <a href="https://github.com/alec-watts/">
             <img src={github} alt="GitHub Logo" width="30" />
