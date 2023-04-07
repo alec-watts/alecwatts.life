@@ -9,13 +9,14 @@ import Education from '../components/Education';
 import recreation from '../content/recreation.json'
 import consume from '../content/consume.json'
 import sendblue from '../content/sendblue.json'
+import umich_plugin from '../content/umich_plugin.json'
 
 const Home = () => {
   useEffect(() => {
     document.title = 'Alec Watts'
   }, [])
 
-  const projects = [sendblue, consume, recreation]
+  const projects = [umich_plugin, sendblue, consume, recreation]
 
   return (
     <div className='flex flex-col items-center'>

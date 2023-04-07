@@ -1,0 +1,10 @@
+{
+    "name": "UMich Course Search ChatGPT Plug-in",
+    "position": "Creator",
+    "link": "",
+    "video_link": "",
+    "logo": "chatgpt.png",
+    "color": "rgb(113, 116, 53, 0.2)",
+    "technologies": "ChatGPT Plug-in, Playwright (Web Scraping), BeautifulSoup (Web Scraping)",
+    "story": "<div style='position: relative; padding-bottom: 56.25%; height: 0;'><iframe src='https://www.loom.com/embed/e6d2dc05d8dd463dbe020f8c1ae1cf50' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;'></iframe></div> </br> <b><a style='text-decoration: underline;' href='https://github.com/alec-watts/umich-atlas-datascrape' target='_blank'>Code for webscraping course info</a> </br> <a style='text-decoration: underline;' href='https://github.com/alec-watts/umich-course-chatgpt-plugin' target='_blank'>UMich Course Search ChatGPT Plug-in server</a></b>"
+}
